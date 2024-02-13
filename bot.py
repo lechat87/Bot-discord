@@ -46,4 +46,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # Lancer le bot avec le token
-bot.run('YOUR_DISCORD_BOT_TOKEN')
+bot.run('MTIwMjI4MzI5NTcwMzA0NDE2OA.GNTcyK.CUvk5g-P_LT3TEfWX9vy9ICGFWsDdMX0d73e1E')
